@@ -1,6 +1,6 @@
 ## Conclusion
 
-In this project, I summarized the main workflow of a reproducible research which is important for modern data analysis. In the introduction and discussion sections, I introduced multiple useful tools for reproducible research in aspects of version control, literature computing, authoring and publishing and automation, and specified the concepts and applicaitons of Makefile, Git, Github, pandoc, Sand Markdown. Through this project, we can review the core concepts of tools of reproducible research and their applications.
+In this project, I summarized the main workflow of a reproducible research which is important for modern data analysis. In the introduction and discussion sections, I introduced multiple useful tools for reproducible research in aspects of version control, literature computing, authoring and publishing and automation, and specified the concepts and applicaitons of Makefile, Git, Github, pandoc, and Markdown. Through this project, we can review the core concepts of tools of reproducible research and their applications.
 
 
 ### References
